@@ -1,1 +1,1 @@
-# beginner-javascript-wes-bos
+# Beginner JavaScript Wes Bos
