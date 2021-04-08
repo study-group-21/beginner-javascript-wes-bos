@@ -32,6 +32,11 @@ is
 a sentence.`;
 ```
 * concatenation = adding strings together using a plus sign +
+  * Examples:
+    * `1 + 1` returns `2`
+    * `"1" + "1"` returns `"11"`
+    * `"1" + 1` returns `"11"`
+    * `1 + "1"` return `"11"`
 * variable interpolation = put a var inside a string using back ticks
   * Ex: 
   ``` js
